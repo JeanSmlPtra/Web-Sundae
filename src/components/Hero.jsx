@@ -28,7 +28,6 @@ const Hero = () => {
           backgroundColor: 'transparent', 
           color: 'white', 
           cursor: 'pointer',
-          padding
         }}>
           Get Started
         </button>
